@@ -21,6 +21,10 @@
 * [AV Data Caputer](https://github.com/yoshiko2/AV_Data_Capture) [免费软件] [Windows]
 
 	一款专门从 [JavBus](https://www.javbus.com) 抓取日本 AV 影片元数据的刮削器，支持批量操作。
+
+* [音乐标签](https://www.cnblogs.com/vinlxc/p/11347744.html) [免费软件] [Windows]
+
+    这是一款可以编辑歌曲的标题、专辑、艺术家、歌词和封面等信息的应用程序。支持FLAC/APE/WAV/AIFF/WV/TTA/MP3/MP4/M4A/OGG/MPC/OPUS/WMA/DSF/DFF等音频格式，绿色无广告，无任何功能限制。
 * [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) [免费软件] [Windows]
 
 	一款 Windows 10 平台的第三方音量辅助工具，它能够单独设置每个软件的音量，还支持将软件的声音发送到不同的音频设备上，比如背景音乐发送到喇叭上，在线电影音乐发送到耳机中。
